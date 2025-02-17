@@ -5,6 +5,7 @@ It utilizes advanced machine learning techniques, including comprehensive data p
 High Accuracy: Achieves over 85% prediction accuracy.
 Advanced Machine Learning: Implements Random Forest and other ML techniques.
 Data Processing: Includes thorough preprocessing and feature engineering for optimal performance.
+
 **Technologies Used:**
 Python
 Scikit-Learn
