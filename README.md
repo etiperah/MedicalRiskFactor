@@ -14,5 +14,4 @@ Matplotlib & Seaborn (for data visualization)
 
 
 For a detailed explanation of the project, watch the video:
-
 https://www.youtube.com/watch?v=1C_siw0c3Uk&feature=youtu.be
